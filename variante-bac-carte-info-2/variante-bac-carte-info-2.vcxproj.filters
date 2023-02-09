@@ -13,10 +13,29 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Variante">
+      <UniqueIdentifier>{77999be6-a19b-46ee-a652-093c8790f605}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Variante\Varianta 25">
+      <UniqueIdentifier>{93768c79-41c0-4540-b84f-613b1f211deb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Variante\Varianta 24">
+      <UniqueIdentifier>{4cddf964-00f8-41c6-9f64-4938314c1b32}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="variante-bac-carte-info-2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="varianta-25.h">
+      <Filter>Variante\Varianta 25</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="varianta-25.txt">
+      <Filter>Variante\Varianta 25</Filter>
+    </Text>
   </ItemGroup>
 </Project>
