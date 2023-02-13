@@ -130,9 +130,11 @@
     <ClCompile Include="variante-bac-carte-info-2.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="varianta-24.h" />
     <ClInclude Include="varianta-25.h" />
   </ItemGroup>
   <ItemGroup>
+    <Text Include="varianta-24.txt" />
     <Text Include="varianta-25.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

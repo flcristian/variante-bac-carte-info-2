@@ -32,10 +32,16 @@
     <ClInclude Include="varianta-25.h">
       <Filter>Variante\Varianta 25</Filter>
     </ClInclude>
+    <ClInclude Include="varianta-24.h">
+      <Filter>Variante\Varianta 24</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="varianta-25.txt">
       <Filter>Variante\Varianta 25</Filter>
+    </Text>
+    <Text Include="varianta-24.txt">
+      <Filter>Variante\Varianta 24</Filter>
     </Text>
   </ItemGroup>
 </Project>

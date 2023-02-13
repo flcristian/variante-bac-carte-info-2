@@ -178,5 +178,7 @@ void rezolvareSub3Problema3() {
 	cout << "Introduceti k : ";
 	cin >> k;
 	aflareTLC(T, L, C, k);
-	cout << T << " " << L << " " << C;
+
+	ofstream f("varianta-25.txt");
+	f << T << " " << L << " " << C;
 }
