@@ -1,6 +1,6 @@
-#include <iostream>
+#include "varianta-24.h"
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    rezolvareSub3Problema3();
 }
